@@ -4,15 +4,6 @@
 #
 # Fell free to add or subtract sites as necessary.
 #
-# For linux noobs, to add this to /etc/hosts,
-# run the following in the same directory of this
-# file:
-#
-# sudo su
-# cat ips >> /etc/hosts
-#
-# You can delete this file afterwards.
-#
 # To use this on Windows, add it to the end of:
 # C:\Windows\System32\drivers\etc\hosts
 
