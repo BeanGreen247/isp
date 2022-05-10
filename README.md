@@ -8,6 +8,8 @@ There are two versions
   - hostsTweaked - The Linux version
   - hostsWindowsTweaked - The Windows version
 
+The main difference is that the Tweaked version is a cleaner version with allowed social medias such as Facebook, Instagram and Pinterest.
+
 ### Linux
 
 /etc/hosts to block all of the ad sites, porn and general junk
@@ -25,6 +27,6 @@ Open this link https://raw.githubusercontent.com/BeanGreen247/isp/master/hostsWi
 
 or
 
-Open this link https://raw.githubusercontent.com/BeanGreen247/isp/master/hostsWindowsTweaked for a cleaner version with allowedsocial medias such as Facebook, Instagram and Pinterest.
+Open this link https://raw.githubusercontent.com/BeanGreen247/isp/master/hostsWindowsTweaked
 
 Save file as and in the open dialog navigate to here `C:\Windows\System32\drivers\etc` and save the file by replacing the original and make sure the file type says `File`
