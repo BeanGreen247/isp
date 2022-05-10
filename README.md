@@ -31,6 +31,6 @@ Open this link https://raw.githubusercontent.com/BeanGreen247/isp/master/hostsWi
 
 Save file as and in the open dialog navigate to here `C:\Windows\System32\drivers\etc` and save the file by replacing the original and make sure the file type says `File`
 
-If that does not work open Command prompt as Administrator and type in the following example with VSCodium `C:\Users\beangreen247\AppData\Local\Programs\VSCodium\VSCodium.exe C:\Windows\System32\drivers\etc`
+If that does not work open Command prompt as Administrator and type in the following example with VSCodium `C:\Users\<UserNameHere>\AppData\Local\Programs\VSCodium\VSCodium.exe C:\Windows\System32\drivers\etc`
 
 Can be done with any editor that allows elevated privileges. VSCodium is one.
