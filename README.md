@@ -1,10 +1,22 @@
 # isp
 
+There are two versions
+- base - the main hosts file for both Linux and Windows
+  - hosts - The Linux version
+  - hostsWindows - The Windows version
+- Tweaked - the Tweaked hosts file for both Linux and Windows
+  - hostsTweaked - The Linux version
+  - hostsWindowsTweaked - The Windows version
+
 ### Linux
 
 /etc/hosts to block all of the ad sites, porn and general junk
 ```
 sudo wget -O /etc/hosts https://raw.githubusercontent.com/BeanGreen247/isp/master/hosts
+```
+or
+```
+sudo wget -O /etc/hosts https://raw.githubusercontent.com/BeanGreen247/isp/master/hostsTweaked
 ```
 
 ### Windows
