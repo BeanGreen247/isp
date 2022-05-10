@@ -13,6 +13,6 @@ Open this link https://raw.githubusercontent.com/BeanGreen247/isp/master/hostsWi
 
 or
 
-Open this link https://raw.githubusercontent.com/BeanGreen247/isp/master/hostsWindowsTweaked for a cleaner version with allower social medias such as Facebook, Instagram and Pinterest.
+Open this link https://raw.githubusercontent.com/BeanGreen247/isp/master/hostsWindowsTweaked for a cleaner version with allowedsocial medias such as Facebook, Instagram and Pinterest.
 
 Save file as and in the open dialog navigate to here `C:\Windows\System32\drivers\etc` and save the file by replacing the original and make sure the file type says `File`
